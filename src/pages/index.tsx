@@ -28,6 +28,8 @@ export default function Home() {
 
             <p>In React <b>19.2</b> <code>Suspense</code> renders fallback and never renders children on page rendered on server side without JS. So now if user without JS opens page, he gets blank page.</p>
 
+            <p>It seems like <code>Suspense</code> does not render children if they are too big while it works fine for smaller children.</p>
+
             <h2>How to check</h2>
 
             <ol>
