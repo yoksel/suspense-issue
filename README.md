@@ -8,6 +8,8 @@ In React <b>19.2</b> <code>Suspense</code> renders fallback and never renders ch
 
 Run project locally to see the live demo with the issue
 
+<img width="865" height="965" alt="Screenshot 2026-01-07 at 12 21 55" src="https://github.com/user-attachments/assets/9e460989-3350-44e2-9d2d-c54bac0970d4" />
+
 ---
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
