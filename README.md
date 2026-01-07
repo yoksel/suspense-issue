@@ -6,8 +6,6 @@ In React <b>19.1</b> <code>Suspense</code> just renders children on page rendere
 
 In React <b>19.2</b> <code>Suspense</code> renders fallback and never renders children on page rendered on server side without JS. So now if user without JS opens page, he gets blank page.
 
-It works this way in Chrome while everything is fine in Safari and Firefox.
-
 Run project locally to see the live demo with the issue
 
 ---
